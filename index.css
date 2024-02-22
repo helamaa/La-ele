@@ -1,0 +1,21 @@
+
+body{
+  background-color: rgb(122, 198, 201);
+} 
+
+h1{
+    color: rgb(255, 114, 137);
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 20px;
+}h3{
+    color: rgb(255, 241, 248);
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+} 
+
+
+
